@@ -1,0 +1,12 @@
+.back{
+    background-image:url("https://cdn.shopify.com/s/files/1/0065/6702/products/The-Universe-WP20067-MindtheGapWallpaperwww.vertigohome.us_1600x.jpg?v=1612213127") ;
+text-align: center;
+}
+
+
+ul{
+    display: inline-block;
+}
+body{
+    background-color: gray;
+}
